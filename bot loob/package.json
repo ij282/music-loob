@@ -1,0 +1,22 @@
+{
+  "name": "ZombieX-Quran-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord-ytdl-core": "^5.0.4",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.4.0",
+    "opusscript": "0.0.8",
+    "ytdl-core": "^4.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
